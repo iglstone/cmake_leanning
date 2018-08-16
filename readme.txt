@@ -1,0 +1,15 @@
+reference:
+
+https://blog.csdn.net/dbzhang800/article/details/6314073
+
+https://blog.csdn.net/stpeace/article/details/47069215
+
+https://blog.csdn.net/tyronne/article/details/50453737?_t_t_t=0.7523680755402893
+
+makedir build
+cd build
+cmake ..
+make 
+./bin/hello
+
+ldd ./bin/hello  #list dynamic dependence
