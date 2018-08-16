@@ -24,3 +24,5 @@ reference:
   ros cmakelist(chinese and english) 
  
 
+# gdb info , also , cmake can use gdb to debug .
+https://www.jb51.net/article/133486.htm
