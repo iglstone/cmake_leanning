@@ -13,3 +13,14 @@ make
 ./bin/hello
 
 ldd ./bin/hello  #list dynamic dependence
+
+
+
+# comments:
+find_package(XX) 
+will generate the XX_INCLUDE XX_LIBRARYS .. and so on
+
+reference:
+  ros cmakelist(chinese and english) 
+ 
+
