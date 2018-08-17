@@ -35,3 +35,14 @@ https://github.com/ros-perception/slam_gmapping/tree/hydro-devel/gmapping/test
 
 c++ debug infos:
 https://blog.csdn.net/u012707739/article/details/80217959
+
+gitignore file:
+/*****/
+ref:
+https://www.cnblogs.com/kevingrace/p/5690241.html
+
+git rm -r --cached .
+git add .
+git commit -m 'update .gitignore'
+/*****/
+
