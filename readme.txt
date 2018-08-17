@@ -30,3 +30,5 @@ https://www.jb51.net/article/133486.html
 how to use backtrace to locate problem:
 https://blog.csdn.net/jxgz_leo/article/details/53458366
 
+ros test example code:
+https://github.com/ros-perception/slam_gmapping/tree/hydro-devel/gmapping/test
