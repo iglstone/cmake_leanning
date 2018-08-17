@@ -46,3 +46,5 @@ git add .
 git commit -m 'update .gitignore'
 /*****/
 
+git merger:
+https://www.cnblogs.com/forwill/p/6524185.html
